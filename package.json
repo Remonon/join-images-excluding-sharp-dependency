@@ -60,8 +60,5 @@
   "dependencies": {
     "is-plain-obj": "^3.0.0",
     "tslib": "^2.3.1"
-  },
-  "peerDependencies": {
-    "sharp": "^0.30.4"
   }
 }
